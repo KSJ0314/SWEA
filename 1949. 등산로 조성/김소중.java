@@ -2,9 +2,9 @@ import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-public class 김소중 {
+public class Solution {
 	public static void main(String args[]) throws Exception {
-		김소중 s = new 김소중();
+		Solution s = new Solution();
 		s.init();
 		System.out.println(s.sb.toString());
 	}
