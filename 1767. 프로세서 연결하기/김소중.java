@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-class 김소중 {
+class Solution {
 	public static void main(String args[]) throws Exception {
 		//System.setIn(new FileInputStream("./res/input.txt"));
-		김소중 s = new 김소중();
+		Solution s = new Solution();
 		s.init();
 		System.out.println(s.sb.toString());
 	}
