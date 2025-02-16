@@ -3,7 +3,7 @@ import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
 
-public class 김소중 {
+public class Solution {
 	static final int[][] dels = {{-1,0},{1,0},{0,-1},{0,1}};	// 상하좌우
 	static final int[][] idxs = {	// 터널 입력에 대한 index 매칭 (udlr과 연결)
 			null,					// 0: 터널x
