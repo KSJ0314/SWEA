@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class 김소중_subset {
+public class Solution_subset {
 	static int D,W,K,min;
 	static int[][] arr;
 	public static void main(String[] args) throws IOException {
