@@ -11,7 +11,7 @@ import java.io.*;
 // [출력]
 // 손해를 보지 않으면서 홈방범 서비스를 가장 많은 집들에 제공하는 서비스 영역을 찾았을 때,
 // 그 때의 서비스를 제공 받는 집들의 수이다.
-public class 김소중 {
+public class Solution {
 	static int N,M, count, max;
 	static int[][] arr;
 	
