@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class 김소중 {
+public class Solution {
 	public static void main(String[] args) throws IOException {
 		//System.setIn(new FileInputStream("./res/input.txt"));
-		김소중 s = new 김소중();
+		Solution s = new Solution();
 		s.init();
 		System.out.println(s.sb.toString());
 	}
