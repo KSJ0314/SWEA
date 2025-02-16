@@ -18,10 +18,10 @@ import java.io.InputStreamReader;
 
 // diff가 1보다 크면 절대 불가능
 
-public class 김소중 {
+public class Solution {
 	public static void main(String[] args) throws IOException {
 		// System.setIn(new FileInputStream("./res/input.txt"));
-		김소중 s = new 김소중();
+		Solution s = new Solution();
 		s.init();
 		System.out.println(s.sb.toString());
 	}
