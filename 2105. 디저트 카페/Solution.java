@@ -21,10 +21,10 @@ import java.io.InputStreamReader;
 // 다음 진행 방향
 // 지나간 숫자 정보
 
-public class 김소중 {
+public class Solution {
 	public static void main(String[] args) throws IOException {
 		// System.setIn(new FileInputStream("./res/input.txt"));
-		김소중 s = new 김소중();
+		Solution s = new Solution();
 		s.init();
 		System.out.println(s.sb.toString());
 	}
