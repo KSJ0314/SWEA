@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class 김소중_combi {
+public class Solution_combi {
 	static int D,W,K,min, size;
 	static int[][] arr;
 	public static void main(String[] args) throws IOException {
